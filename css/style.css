@@ -3,5 +3,7 @@ html {
   html .container .jumbotron {
     background-color: #3192BF;
     color: #fff; }
+  html .container .panel-body span {
+    padding-right: 3px; }
 
 /*# sourceMappingURL=style.css.map */
