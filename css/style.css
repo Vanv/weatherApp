@@ -1,4 +1,7 @@
 html {
   color: #454545; }
+  html .container .jumbotron {
+    background-color: #3192BF;
+    color: #fff; }
 
 /*# sourceMappingURL=style.css.map */
