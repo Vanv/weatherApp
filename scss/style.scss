@@ -7,8 +7,14 @@ html {
 			background-color: #3192BF;
 			color: #fff;
 		}
-		.panel-body span {
-			padding-right: 3px;
+		.panel-body { 
+			span {
+				padding-right: 3px;
+			}
+			
+			btn {
+				cursor: hover;
+			}
 		}
 
 	}

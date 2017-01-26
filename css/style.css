@@ -5,5 +5,7 @@ html {
     color: #fff; }
   html .container .panel-body span {
     padding-right: 3px; }
+  html .container .panel-body btn {
+    cursor: hover; }
 
 /*# sourceMappingURL=style.css.map */
